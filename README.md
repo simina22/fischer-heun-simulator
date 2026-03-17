@@ -16,4 +16,4 @@ It integrates concepts from previous lab exercises, including block decompositio
 - Efficient RMQ queries within a block and across blocks  
 - Handles invalid or out-of-range queries gracefully  
 
----
+----
